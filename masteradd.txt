@@ -1,3 +1,5 @@
 master add file
 
 master
+
+ÎÒÔÚ²âÊÔgit log -p
